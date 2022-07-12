@@ -1,5 +1,13 @@
 ### Hi there 👋 I am Julia Oppenheimer!
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 <!--
 **juliaoppenheimer/juliaoppenheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
